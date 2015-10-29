@@ -1,1 +1,3 @@
-var app = angular.module('flapperNews', ['ui.router']);
+var app = angular.module('workoutLogger', [
+	"workoutLogger.controllers"
+]);
